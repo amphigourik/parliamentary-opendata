@@ -1,0 +1,543 @@
+{
+  "info_generales": {
+    "natureLoi": "Projet de loi",
+    "intituleLoi": "Simplification de la vie économique",
+    "lecture": "1ère lecture",
+    "tsgenhtml": "1716287169000",
+    "idtxt": "106111",
+    "nbAmdtsDeposes": "13",
+    "nbAmdtsAExaminer": "13",
+    "doslegsignet": "pjl23-550"
+  },
+  "Subdivisions": [
+    {
+      "libelle_subdivision": "TITRE IER : Simplifier l'Organisation de l'administration",
+      "id_subdivision": "197110",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_I",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 1er",
+      "id_subdivision": "197111",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_1",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE II : SIMPLIFIER LES DÉMARCHES ADMINISTRATIVES DES ENTREPRISES",
+      "id_subdivision": "197112",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_II",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 2",
+      "id_subdivision": "197113",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_2",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 3",
+      "id_subdivision": "197114",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_3",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE III : FACILITER L'ACCÈS DE TOUTES LES ENTREPRISES À LA COMMANDE PUBLIQUE",
+      "id_subdivision": "197115",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_III",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 4",
+      "id_subdivision": "197116",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_4",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 5",
+      "id_subdivision": "197117",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_5",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE IV : SIMPLIFIER LES OBLIGATIONS PESANT SUR L'ORGANISATION ET LE FONCTIONNEMENT DES ENTREPRISES",
+      "id_subdivision": "197118",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_IV",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Chapitre Ier : Simplifier les obligations d'information",
+      "id_subdivision": "197119",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_3__Chapitre_I__Titre_IV",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 6",
+      "id_subdivision": "197120",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_6",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 7",
+      "id_subdivision": "197121",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_7",
+      "Amendements": [
+        {
+          "idAmendement": "1268349",
+          "posder": "1",
+          "subpos": "0",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-9.html",
+          "typeAmdt": "Amt",
+          "num": "COM-9",
+          "libelleAlinea": "Al. 4",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "false",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        }
+      ]
+    },
+    {
+      "libelle_subdivision": "Chapitre II : Alléger les contraintes qui pèsent sur la croissance des entreprises",
+      "id_subdivision": "197122",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_3__Chapitre_II__Titre_IV",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 8",
+      "id_subdivision": "197123",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_8",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE V : FACILITER ET SÉCURISER LE RÈGLEMENT DES LITIGES",
+      "id_subdivision": "197124",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_V",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Chapitre Ier : Élargir les dispositifs non-juridictionnels de règlement des litiges",
+      "id_subdivision": "197125",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_3__Chapitre_I__Titre_V",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 9",
+      "id_subdivision": "197126",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_9",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 10",
+      "id_subdivision": "197127",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_10",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Chapitre II : Simplifier et clarifier certaines formes de contrats",
+      "id_subdivision": "197128",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_3__Chapitre_II__Titre_V",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 11",
+      "id_subdivision": "197129",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_11",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Chapitre III : Simplifier et accélérer les procédures judiciaires",
+      "id_subdivision": "197130",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_3__Chapitre_III__Titre_V",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 12",
+      "id_subdivision": "197131",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_12",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE VI : ALIGNER LES DROITS DES trÈs petites entreprises SUR CEUX DES PARTICULIERS",
+      "id_subdivision": "197132",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_VI",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 13",
+      "id_subdivision": "197133",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_13",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 14",
+      "id_subdivision": "197134",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_14",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE VII : FACILITER L'ESSOR de projets INDUSTRIELS et d'infrastructures",
+      "id_subdivision": "197135",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_VII",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 15",
+      "id_subdivision": "197136",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_15",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 16",
+      "id_subdivision": "197137",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_16",
+      "Amendements": [
+        {
+          "idAmendement": "1268350",
+          "posder": "1",
+          "subpos": "0",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-10.html",
+          "typeAmdt": "Amt",
+          "num": "COM-10",
+          "libelleAlinea": "Al. 3",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "false",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        }
+      ]
+    },
+    {
+      "libelle_subdivision": "Article 17",
+      "id_subdivision": "197138",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_17",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 18",
+      "id_subdivision": "197139",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_18",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE VIII : SIMPLIFIER POUR ACCéLERER LA TRANSITION NERGéTIQUE ET éCOLOGIQUE DE NOTRE éCONOMIE",
+      "id_subdivision": "197140",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_VIII",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 19",
+      "id_subdivision": "197141",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_19",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 20",
+      "id_subdivision": "197142",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_20",
+      "Amendements": [
+        {
+          "idAmendement": "1268351",
+          "posder": "1",
+          "subpos": "0",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-11.html",
+          "typeAmdt": "Amt",
+          "num": "COM-11",
+          "libelleAlinea": "Al. 2",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "false",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        }
+      ]
+    },
+    {
+      "libelle_subdivision": "Article 21",
+      "id_subdivision": "197143",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_21",
+      "Amendements": [
+        {
+          "idAmendement": "1268239",
+          "posder": "1",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-1.html",
+          "typeAmdt": "Amt",
+          "num": "COM-1",
+          "libelleAlinea": "",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126584",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117609",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268331",
+          "posder": "2",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-4.html",
+          "typeAmdt": "Amt",
+          "num": "COM-4",
+          "libelleAlinea": "",
+          "urlAuteur": "kern_claude14073q.html",
+          "auteur": "M. KERN",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126584",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117609",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268346",
+          "posder": "3",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-7.html",
+          "typeAmdt": "Amt",
+          "num": "COM-7",
+          "libelleAlinea": "",
+          "urlAuteur": "muller_bronn_laurence20096l.html",
+          "auteur": "Mme MULLER-BRONN",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126584",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117609",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268240",
+          "posder": "4",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-2.html",
+          "typeAmdt": "Amt",
+          "num": "COM-2",
+          "libelleAlinea": "",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126583",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117610",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268347",
+          "posder": "5",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-8.html",
+          "typeAmdt": "Amt",
+          "num": "COM-8",
+          "libelleAlinea": "",
+          "urlAuteur": "muller_bronn_laurence20096l.html",
+          "auteur": "Mme MULLER-BRONN",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126583",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117610",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268332",
+          "posder": "6",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-5.html",
+          "typeAmdt": "Amt",
+          "num": "COM-5",
+          "libelleAlinea": "",
+          "urlAuteur": "kern_claude14073q.html",
+          "auteur": "M. KERN",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126583",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268241",
+          "posder": "7",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-3.html",
+          "typeAmdt": "Amt",
+          "num": "COM-3",
+          "libelleAlinea": "",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126574",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117604",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268333",
+          "posder": "8",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-6.html",
+          "typeAmdt": "Amt",
+          "num": "COM-6",
+          "libelleAlinea": "",
+          "urlAuteur": "kern_claude14073q.html",
+          "auteur": "M. KERN",
+          "isDiscussionCommune": "true",
+          "idDiscussionCommune": "126574",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "true",
+          "idIdentique": "117604",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268352",
+          "posder": "9",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-12.html",
+          "typeAmdt": "Amt",
+          "num": "COM-12",
+          "libelleAlinea": "",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "false",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        },
+        {
+          "idAmendement": "1268353",
+          "posder": "10",
+          "subpos": "20",
+          "isSousAmendement": "false",
+          "idAmendementPere": "0",
+          "urlAmdt": "Amdt_COM-13.html",
+          "typeAmdt": "Amt",
+          "num": "COM-13",
+          "libelleAlinea": "",
+          "urlAuteur": "delattre_nathalie19719d.html",
+          "auteur": "Mme Nathalie DELATTRE",
+          "isDiscussionCommune": "false",
+          "isDiscussionCommuneIsolee": "false",
+          "isIdentique": "false",
+          "isAdopte": "false",
+          "isRejete": "false"
+        }
+      ]
+    },
+    {
+      "libelle_subdivision": "TITRE IX : SIMPLIFIER POUR INNOVER",
+      "id_subdivision": "197144",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_IX",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 22",
+      "id_subdivision": "197145",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_22",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 23",
+      "id_subdivision": "197146",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_23",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE X : SIMPLIFIER LE DEVELOPPEMENT DES COMMERCES",
+      "id_subdivision": "197147",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_X",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 24",
+      "id_subdivision": "197148",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_24",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 25",
+      "id_subdivision": "197149",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_25",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 26",
+      "id_subdivision": "197150",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_26",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE XI : ASSURER UNE SIMPLIFICATION DURABLE",
+      "id_subdivision": "197151",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_XI",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 27",
+      "id_subdivision": "197152",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_27",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "TITRE XII : DISPOSITIONS DIVERSES",
+      "id_subdivision": "197153",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_2__Titre_XII",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Article 28",
+      "id_subdivision": "197154",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_4__Article_28",
+      "Amendements": []
+    },
+    {
+      "libelle_subdivision": "Intitulé du projet de loi",
+      "id_subdivision": "197109",
+      "signet": "../../textes/2023-2024/550.html#AMELI_SUB_1__Loi",
+      "Amendements": []
+    }
+  ]
+}
